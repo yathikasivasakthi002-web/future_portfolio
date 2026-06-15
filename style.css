@@ -21,7 +21,7 @@ h1 {
 .intro {
   text-align: center;
   font-size: 20px;
-  color: #777;
+  color:blue;
   margin-bottom: 30px;
 }
 
@@ -34,7 +34,7 @@ h1 {
 }
 
 h2 {
-  color: #c85a87;
+  color:blue;
 }
 
 ul {
@@ -60,7 +60,7 @@ button:hover {
 }
 
 a {
-  color: #d46a92;
+  color: blue;
   text-decoration: none;
   font-weight: bold;
 }
@@ -72,7 +72,7 @@ a:hover {
 .thankyou {
   text-align: center;
   margin-top: 40px;
-  color: #c85a87;
+  color: blue;
   font-size: 18px;
 }
 .card:hover {
