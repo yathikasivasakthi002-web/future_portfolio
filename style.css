@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to bottom, #fffafd, #ffeef5);
+  background: blue(to bottom, #fffafd, #ffeef5);
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 20px;
