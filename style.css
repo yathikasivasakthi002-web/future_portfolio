@@ -9,6 +9,7 @@ body {
 .container {
   max-width: 700px;
   margin: auto;
+  color: blue;
 }
 
 h1 {
